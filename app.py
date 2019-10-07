@@ -1,3 +1,3 @@
 print('Hello Ishwar')
 print()
-print()
+print("Ishwar is good")
